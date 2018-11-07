@@ -28,7 +28,8 @@ class Home extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('v_home');
+		$x['count']=$this->m_mahasiswa->count_mahasiswa();
+		$this->load->view('v_home',$x);
 	}
 
 	public function saveMahasiswa()

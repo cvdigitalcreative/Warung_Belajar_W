@@ -10,6 +10,19 @@ class M_mahasiswa extends CI_Model
 		return $hsl;
 	}
 
+	function count_mahasiswa(){
+		$hsl=$this->db->query("SELECT COUNT(mahasiswa_nama) AS jumlah FROM mahasiswa");
+
+		if($hsl->num_rows() > 0){
+            foreach($hsl->result_array() as $data){
+                $hasil = $data['jumlah'];
+            }
+            return $hasil;
+        }
+
+		return $hasil;
+	}
+
 	function save_mahasiswa($nama,$email,$kontak,$paket){
 		$hsl=$this->db->query("INSERT into mahasiswa(mahasiswa_nama,mahasiswa_email,mahasiswa_kontak,mahasiswa_paket) values ('$nama','$email','$kontak','$paket')");
 		return $hsl;

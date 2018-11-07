@@ -149,10 +149,10 @@
 				<!-- Course -->
 				<div class="col-lg-4 course_col">
 					<div class="course">
-						<div class="course_image"><img src="<?php echo base_url()?>assets/images/course_1.jpg" alt=""></div>
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/GroupAlgoritmaPemrograman.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Belajar Group Standar (Algoritma Pemograman 1 & 2 )</a></h3>
-							<div class="course_teacher">Harga Per Orang 320 Ribu</div>
+							<h3 class="course_title">Harga Per Orang 320 Ribu</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 320 Ribu</div> -->
 							<div class="course_text">
 								<p> Satu Group 6-8 orang | 8 pertemuan</p>
 							</div>
@@ -168,10 +168,10 @@
 				<!-- Course -->
 				<div class="col-lg-4 course_col">
 					<div class="course">
-						<div class="course_image"><img src="<?php echo base_url()?>assets/images/course_2.jpg" alt=""></div>
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/GroupStrukturData&OOP.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Belajar Group Lanjut (Struktur Data & OOP)</a></h3>
-							<div class="course_teacher">Harga Per Orang 320 Ribu</div>
+							<h3 class="course_title">Harga Per Orang 320 Ribu</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 320 Ribu</div> -->
 							<div class="course_text">
 								<p>Satu Group 6-8 orang | 8 pertemuan</p>
 							</div>
@@ -187,12 +187,12 @@
 				<!-- Course -->
 				<div class="col-lg-4 course_col">
 					<div class="course">
-						<div class="course_image"><img src="<?php echo base_url()?>assets/images/course_2.jpg" alt=""></div>
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/GroupAndroid.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Belajar Private Standar (Algoritma Pemograman 1 & 2 )</a></h3>
-							<div class="course_teacher">Harga Per Orang 640 Ribu</div>
+							<h3 class="course_title">Harga Per Orang 1.5 juta</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 1.5 juta</div> -->
 							<div class="course_text">
-								<p>Satu Group minimal 1 orang | 8 pertemuan</p>
+								<p>Satu Group 6-8 orang | 12 pertemuan</p>
 							</div>
 						</div>
 						<div class="course_footer">
@@ -204,14 +204,14 @@
 				</div>
 
 				<!-- Course -->
-				<div class="col-lg-4 course_col" style="padding-top: 10px">
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
 					<div class="course">
-						<div class="course_image"><img src="<?php echo base_url()?>assets/images/course_2.jpg" alt=""></div>
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/GroupWebsite.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Belajar Private Lanjut (Struktur Data & OOP)</a></h3>
-							<div class="course_teacher">Harga Per Orang 640 Ribu</div>
+							<h3 class="course_title">Harga Per Orang 1.5 juta</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 1.5 juta</div> -->
 							<div class="course_text">
-								<p>Satu Group minimal 1 orang | 8 pertemuan</p>
+								<p>Satu Group 6-8 orang | 12 pertemuan</p>
 							</div>
 						</div>
 						<div class="course_footer">
@@ -222,7 +222,151 @@
 					</div>
 				</div>
 
-			
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateAlgoritmaPemrograman.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 640 Ribu</h3>
+							<!-- <div class="course_teacher"></div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 8 pertemuan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="5">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateStrukturData&OOP.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 640 Ribu</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 640 Ribu</div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 8 pertemuan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="6">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateAndroid.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 2.5 Juta</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 2.5 Juta</div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 12 pertemuan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="7">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateWebsite.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 2.5 Juta</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 2.5 Juta</div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 12 pertemuan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="8">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateToLocationAlgoritmaPemrograman.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 800 Ribu</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 800 Ribu</div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 8 pertemuan<br>Lokasi belajar anda yang menentukan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="9">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateToLocationStrukturData&OOP.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 800 Ribu</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 800 Ribu</div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 8 pertemuan<br>Lokasi belajar anda yang menentukan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="10">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateToLocationAndroid.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 2.8 juta</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 2.8 juta</div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 12 pertemuan<br>Lokasi belajar anda yang menentukan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="11">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-4 course_col" style="padding-top: 15px">
+					<div class="course">
+						<div class="course_image"><img src="<?php echo base_url()?>assets/images/Kursus/PrivateToLocationWebsite.jpg" alt=""></div>
+						<div class="course_body">
+							<h3 class="course_title">Harga Per Orang 2.8 Juta</h3>
+							<!-- <div class="course_teacher">Harga Per Orang 2.8 Juta</div> -->
+							<div class="course_text">
+								<p>Satu Group 1 orang | 12 pertemuan<br>Lokasi belajar anda yang menentukan</p>
+							</div>
+						</div>
+						<div class="course_footer">
+							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
+								<button type="submit" class="counter_form_button" id="12">Daftar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
 			</div>
 			
 		</div>
@@ -249,7 +393,7 @@
 							
 							<!-- Milestone -->
 							<div class="milestone">
-								<div class="milestone_counter" data-end-value="15">0</div>
+								<div class="milestone_counter" data-end-value="<?php echo $count?>">0</div>
 								<div class="milestone_text">Member kursus</div>
 							</div>
 
@@ -268,11 +412,19 @@
 							<input type="email" class="counter_input" id="email" name="email" placeholder="Your Email:" required="required">
 							<input type="tel" class="counter_input"id="kontak" name="kontak" placeholder="Phone (WA Aktif):" required="required">
 							<select name="paket" id="counter_select" class="counter_input counter_options">
-								<option>Choose Subject</option>
-								<option value="Belajar Group Standar">Belajar Group Standar</option>
-								<option value="Belajar Group Lanjut">Belajar Group Lanjut</option>
-								<option value="Belajar Private Standar">Belajar Private Standar</option>
-								<option value="Belajar Private Lanjut">Belajar Private Lanjut</option>
+								<option>Pilih Kursus</option>
+								<option value="Group Algoritma Pemrograman">Group (Algoritma Pemrograman)</option>
+								<option value="Group Struktur Data & OOP">Group (Struktur Data & OOP)</option>
+								<option value="Group Android">Group (Android)</option>
+								<option value="Group Website">Group (Website)</option>
+								<option value="Private Algoritma Pemrograman">Private (Algoritma Pemrograman)</option>
+								<option value="Private Struktur Data & OOP">Private (Struktur Data & OOP)</option>
+								<option value="Private Android">Private (Android)</option>
+								<option value="Private Website">Private (Website)</option>
+								<option value="Private To Location Algoritma Pemrograman">Private To Location (Algoritma Pemrograman)</option>
+								<option value="Private To Location Struktur Data & OOP">Private To Location (Struktur Data & OOP)</option>
+								<option value="Private To Location Android">Private To Location (Android)</option>
+								<option value="Private To Location Website">Private To Location (Website)</option>
 							</select>
 							<?php echo $this->session->flashdata('msg');?>
 							<button type="submit" class="counter_form_button">Daftar</button>
@@ -381,21 +533,53 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		    autoplayHoverPause:true,
   		});
 
-	    $("#4").click(function(){
+  		$("#1").click(function(){
 	       $("#nama").focus();
-	       $('#counter_select option[value="Belajar Private Lanjut"]').attr('selected','selected');
-	    });
-	    $("#3").click(function(){
-	       $("#nama").focus();
-	       $('#counter_select option[value="Belajar Private Standar"]').attr('selected','selected');
+	       $('#counter_select option[value="Group Algoritma Pemrograman"]').attr('selected','selected');
 	    });
 	    $("#2").click(function(){
 	       $("#nama").focus();
-	       $('#counter_select option[value="Belajar Group Lanjut"]').attr('selected','selected');
+	       $('#counter_select option[value="Group Struktur Data & OOP"]').attr('selected','selected');
 	    });
-	    $("#1").click(function(){
+	    $("#3").click(function(){
 	       $("#nama").focus();
-	       $('#counter_select option[value="Belajar Group Standar"]').attr('selected','selected');
+	       $('#counter_select option[value="Group Android"]').attr('selected','selected');
+	    });
+	    $("#4").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Group Website"]').attr('selected','selected');
+	    });
+	    $("#5").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private Algoritma Pemrograman"]').attr('selected','selected');
+	    });
+	    $("#6").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private Struktur Data & OOP"]').attr('selected','selected');
+	    });
+	    $("#7").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private Android"]').attr('selected','selected');
+	    });
+	    $("#8").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private Website"]').attr('selected','selected');
+	    });
+	    $("#9").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private To Location Algoritma Pemrograman"]').attr('selected','selected');
+	    });
+	    $("#10").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private To Location Struktur Data & OOP"]').attr('selected','selected');
+	    });
+	    $("#11").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private To Location Android"]').attr('selected','selected');
+	    });   
+	    $("#12").click(function(){
+	       $("#nama").focus();
+	       $('#counter_select option[value="Private To Location Website"]').attr('selected','selected');
 	    });
 	});
 
